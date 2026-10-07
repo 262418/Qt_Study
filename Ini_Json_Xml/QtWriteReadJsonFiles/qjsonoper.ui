@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>QJsonOper</class>
+ <widget class="QDialog" name="QJsonOper">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>458</width>
+    <height>149</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>写入和读取JSON文件--测试程序</string>
+  </property>
+  <widget class="QPushButton" name="pushButtonWriteJson">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>写入JSON文件数据信息</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonReadJson">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>80</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>读取JSON文件数据信息</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

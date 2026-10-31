@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/0.ico</file>
+        <file>images/1.GIF</file>
+        <file>images/4.bmp</file>
+        <file>images/5.bmp</file>
+        <file>images/6.bmp</file>
+        <file>images/7.bmp</file>
+        <file>images/8.bmp</file>
+        <file>images/mute.bmp</file>
+        <file>images/volumn.bmp</file>
+    </qresource>
+</RCC>
